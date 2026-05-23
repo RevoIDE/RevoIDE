@@ -1,4 +1,4 @@
-<h1 align="center">RevoIDE - multistack developer</h1>
+<h1 align="center">RevoIDE</h1>
 
 ###
 
