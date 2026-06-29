@@ -1,61 +1,80 @@
-<h1 align="center">RevoIDE</h1>
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:a855f7,100:06b6d4&height=200&section=header&text=RevoIDE&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Game%20Dev%20%E2%80%A2%20Engine%20Craftsman%20%E2%80%A2%20Modder&descSize=18&descAlignY=58&descColor=c4b5fd&animation=fadeIn" width="100%" />
+
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RevoIDE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RevoIDE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+engines+in+C+%2B+Vulkan+%2F+OpenGL;Modding+in+Java+%E2%80%A2+Backend+architecture;Low-level+%26+high-impact)](https://git.io/typing-svg)
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/595942208197361687/1348771106533802128/cropped-logo.webp?ex=67d0ac7a&is=67cf5afa&hm=a831091249eccf49f02309261f33d30f7df0dd8f727888fe92d2669079137f3e&"  />
+## ⚡ About me
 
-###
+My name is <strong>RevoIDE</strong>, Java modder, C and linux enjoyer !
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="30" alt="opengl logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo"  />
+---
+
+## 🛠️ Tech stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css&theme=dark&perline=7" />
+
+### Graphics & Engine
+<img src="https://skillicons.dev/icons?i=opengl&theme=dark&perline=7" />
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)
+
+### Tools & IDEs
+<img src="https://skillicons.dev/icons?i=idea,webstorm,vscode,git,github&theme=dark&perline=7" />
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="30" alt="webstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RevoIDE/RevoIDE/output/github-metrics.svg" alt="Metrics" width="100%" />
+
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://discordapp.com/users/530375728433201153" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://ko-fi.com/revojava/donate" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
-  </a>
+## 🐍 Contribution graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RevoIDE/RevoIDE/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RevoIDE/RevoIDE/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/RevoIDE/RevoIDE/output/snake.svg" width="100%" />
+</picture>
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 🔗 Links
 
-<img src="https://raw.githubusercontent.com/RevoIDE/RevoIDE/output/snake.svg" alt="Snake animation" />
+<div align="center">
 
-###
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/530375728433201153)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/revojava/donate)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:a855f7,100:6e40c9&height=120&section=footer" width="100%" />
+
+</div>
