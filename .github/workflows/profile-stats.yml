@@ -44,5 +44,5 @@ jobs:
           plugin_stars: yes
 
           output_action: commit
-          committer_branch: main
+          committer_branch: output
           committer_message: "chore: update metrics"
