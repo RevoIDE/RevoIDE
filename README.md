@@ -29,7 +29,7 @@ My name is <strong>RevoIDE</strong>, Java modder, C and linux enjoyer !
 
 ### Graphics & Engine
 <img src="https://skillicons.dev/icons?i=opengl&theme=dark&perline=7" />
-![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)
+<img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white" />
 
 ### Tools & IDEs
 <img src="https://skillicons.dev/icons?i=idea,webstorm,vscode,git,github&theme=dark&perline=7" />
