@@ -2,8 +2,6 @@
 
 <img src="assets/neofetch.svg" alt="neofetch" width="100%" />
 
-<img src="assets/bootlog.svg" alt="bootlog" width="100%" />
-
 </div>
 
 ---
