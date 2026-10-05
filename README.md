@@ -53,7 +53,8 @@ I'm **RevoJava**, a student at **42** in France. I like understanding how things
 <div align="center">
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,lua,bash,js,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,lua,bash,js,ts,python&theme=dark" />
+<img src="https://commons.wikimedia.org/wiki/File:GLSL_Logo_(Unofficial).svg" width="48px" />
 
 **Graphics & systems**<br/>
 <img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white" />
